@@ -1,0 +1,3 @@
+[submodule "is-even"]
+	path = is-even
+	url = https://github.com/kofzx/is-even
