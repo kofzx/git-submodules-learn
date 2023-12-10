@@ -1,2 +1,3 @@
-import isEvenUtil from 'is-even/index'
-console.log('🚀 ~ file: index.js:2 ~ isEvenUtil:', isEvenUtil)
+import isEvenUtil from './is-even/index.js'
+
+console.log(isEvenUtil.isEven(2)) // true
